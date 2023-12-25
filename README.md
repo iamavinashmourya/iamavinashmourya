@@ -27,7 +27,7 @@ Happy coding! 🚀
 🌟 Open to collaboration and always eager to connect with fellow developers. Let's build amazing things together! Feel free to reach out for discussions, projects, or just to geek out about the latest in tech.
 
 📫 Connect with me:
-- GitHub: a href="https://www.github.com/iamavinashmourya" target="blank">@iamavinashmourya</a>
+- GitHub: <a href="https://www.github.com/iamavinashmourya" target="blank">@iamavinashmourya</a>
 - Twitter: <a href="https://www.twitter.com/mouryaavinash12" target="blank">@mouryaavinash12</a>
 - Instagram: <a href="https://www.instagram.com/iamavinashmourya" target="blank">@iamavinashmourya</a>
 - Facebook: <a href="https://www.facebook.com/habitswodesign" target="blank">@habitswodesign</a>
