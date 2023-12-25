@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Mourya</h1>
-<h3 align="center">Hello World! I'm [Your Name], a passionate web developer and Android app creator & Learner. 👨‍💻</h3>
+<h3 align="center">Hello World! I'm Avinash Mourya, a passionate web developer and Android app creator & Learner. 👨‍💻</h3>
 <img align="right" alt="me_coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*9m-WDdL_ji01bGbjEnutEw.gif">
 
 <p align="left"> <a href="https://twitter.com/mouryaavinash12" target="blank"><img src="https://img.shields.io/twitter/follow/mouryaavinash12?logo=twitter&style=for-the-badge" alt="mouryaavinash12" /></a> </p>
