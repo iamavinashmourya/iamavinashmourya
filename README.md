@@ -31,4 +31,4 @@ Happy coding! 🚀
 - Twitter: <a href="https://www.twitter.com/mouryaavinash12" target="blank">@mouryaavinash12</a>
 - Instagram: <a href="https://www.instagram.com/iamavinashmourya" target="blank">@iamavinashmourya</a>
 - Facebook: <a href="https://www.facebook.com/habitswodesign" target="blank">@habitswodesign</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/avinash-mourya-bb25a0281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://www.learninglight.com/wp-content/uploads/2017/06/linkedin.png" alt="habitswodesign" height="30px" width="150px" /></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/iamavinashmourya" target="blank"><img align="center" src="https://www.learninglight.com/wp-content/uploads/2017/06/linkedin.png" alt="habitswodesign" height="30px" width="150px" /></a>
