@@ -16,7 +16,7 @@
 Happy coding! 🚀
 
 
-- 🔭 I’m currently working on **Educate Yantra**
+- 🔭 I’m currently working on **Webite & GravityWrite**
 
 - 🌱 I’m currently learning **Frameworks, ML, AI**
 
