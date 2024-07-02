@@ -20,7 +20,7 @@ Happy coding! 🚀
 
 - 🌱 I’m currently learning **Frameworks, ML, AI**
 
-- 💬 Ask me about **react, javascript, php**
+- 💬 Ask me about **react, javascript, java and python**
 
 - 📫 How to reach me **avinashgoweb@gmail.com**
 
